@@ -104,6 +104,7 @@ public class VerifierTree {
         return this.capacity == this.size;
     }
 
+
     public int getDepth() {
         return depth;
     }
